@@ -1,0 +1,22 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "challenge_1": "node src/callback/challenge.js",
+    "promise": "node src/promises/promise.js",
+    "challenge_2": "node src/promises/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "MIT",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
